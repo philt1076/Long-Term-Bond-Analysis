@@ -31,7 +31,8 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 my_text = '''
 ###### Report
 
-See [report]() for more information on how these predictions were generated.
+See [report](https://github.com/philt1076/Long-Term-Bond-Analysis/blob/main/report/ESG_Propensity_in_Fixed_Income_Investing.pdf) 
+for more information on how these predictions were generated.
 
 ###### Data Sources
 
@@ -125,8 +126,6 @@ app.layout = html.Div([
         )
     ], className='row')
 
-    # Add data sources and report (copy with no GT identifiers)
-    # Put on github
 ])
 
 
