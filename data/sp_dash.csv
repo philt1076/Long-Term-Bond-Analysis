@@ -1,0 +1,305 @@
+Rating,Bond,Country,Num Rating,Year
+AAA,Foreign Currency LT,Australia,23.0,2011
+AAA,Foreign Currency LT,Australia,23.0,2012
+AAA,Foreign Currency LT,Australia,23.0,2013
+AAA,Foreign Currency LT,Australia,23.0,2014
+AAA,Foreign Currency LT,Australia,23.0,2015
+AAA,Foreign Currency LT,Australia,23.0,2016
+AAA,Foreign Currency LT,Australia,23.0,2017
+AAA,Foreign Currency LT,Australia,23.0,2018
+AAA,Foreign Currency LT,Austria,23.0,2010
+AAA,Foreign Currency LT,Austria,23.0,2011
+AA+,Foreign Currency LT,Austria,22.0,2012
+AA+,Foreign Currency LT,Austria,22.0,2013
+AA+,Foreign Currency LT,Austria,22.0,2014
+AA+,Foreign Currency LT,Austria,22.0,2015
+AA+,Foreign Currency LT,Austria,22.0,2016
+AA+,Foreign Currency LT,Austria,22.0,2017
+AA+,Foreign Currency LT,Austria,22.0,2018
+AA+,Foreign Currency LT,Belgium,22.0,2011
+AA,Foreign Currency LT,Belgium,21.0,2012
+AA,Foreign Currency LT,Belgium,21.0,2013
+AA,Foreign Currency LT,Belgium,21.0,2014
+AA,Foreign Currency LT,Belgium,21.0,2015
+AA,Foreign Currency LT,Belgium,21.0,2016
+AA,Foreign Currency LT,Belgium,21.0,2017
+AA,Foreign Currency LT,Belgium,21.0,2018
+AAA,Foreign Currency LT,Canada,23.0,2010
+AAA,Foreign Currency LT,Canada,23.0,2011
+AAA,Foreign Currency LT,Canada,23.0,2012
+AAA,Foreign Currency LT,Canada,23.0,2013
+AAA,Foreign Currency LT,Canada,23.0,2014
+AAA,Foreign Currency LT,Canada,23.0,2015
+AAA,Foreign Currency LT,Canada,23.0,2016
+AAA,Foreign Currency LT,Canada,23.0,2017
+AAA,Foreign Currency LT,Canada,23.0,2018
+A+,Foreign Currency LT,Chile,19.0,2011
+A+,Foreign Currency LT,Chile,19.0,2012
+AA-,Foreign Currency LT,Chile,20.0,2013
+AA-,Foreign Currency LT,Chile,20.0,2014
+AA-,Foreign Currency LT,Chile,20.0,2015
+AA-,Foreign Currency LT,Chile,20.0,2016
+A+,Foreign Currency LT,Chile,19.0,2017
+A+,Foreign Currency LT,Chile,19.0,2018
+BBB-,Foreign Currency LT,Colombia,14.0,2011
+BBB-,Foreign Currency LT,Colombia,14.0,2012
+BBB,Foreign Currency LT,Colombia,15.0,2013
+BBB,Foreign Currency LT,Colombia,15.0,2014
+BBB,Foreign Currency LT,Colombia,15.0,2015
+BBB,Foreign Currency LT,Colombia,15.0,2016
+BBB,Foreign Currency LT,Colombia,15.0,2017
+BBB-,Foreign Currency LT,Colombia,14.0,2018
+BB-,Foreign Currency LT,Costa Rica,11.0,2018
+AA-,Foreign Currency LT,Czech Republic,20.0,2011
+AA-,Foreign Currency LT,Czech Republic,20.0,2012
+AA-,Foreign Currency LT,Czech Republic,20.0,2013
+AA-,Foreign Currency LT,Czech Republic,20.0,2014
+AA-,Foreign Currency LT,Czech Republic,20.0,2015
+AA-,Foreign Currency LT,Czech Republic,20.0,2016
+AA-,Foreign Currency LT,Czech Republic,20.0,2017
+AA-,Foreign Currency LT,Czech Republic,20.0,2018
+AAA,Foreign Currency LT,Denmark,23.0,2010
+AAA,Foreign Currency LT,Denmark,23.0,2011
+AAA,Foreign Currency LT,Denmark,23.0,2012
+AAA,Foreign Currency LT,Denmark,23.0,2013
+AAA,Foreign Currency LT,Denmark,23.0,2014
+AAA,Foreign Currency LT,Denmark,23.0,2015
+AAA,Foreign Currency LT,Denmark,23.0,2016
+AAA,Foreign Currency LT,Denmark,23.0,2017
+AAA,Foreign Currency LT,Denmark,23.0,2018
+AAA,Foreign Currency LT,Finland,23.0,2011
+AAA,Foreign Currency LT,Finland,23.0,2012
+AAA,Foreign Currency LT,Finland,23.0,2013
+AAA,Foreign Currency LT,Finland,23.0,2014
+AA+,Foreign Currency LT,Finland,22.0,2015
+AA+,Foreign Currency LT,Finland,22.0,2016
+AA+,Foreign Currency LT,Finland,22.0,2017
+AA+,Foreign Currency LT,Finland,22.0,2018
+AAA,Foreign Currency LT,France,23.0,2011
+AA+,Foreign Currency LT,France,22.0,2012
+AA+,Foreign Currency LT,France,22.0,2013
+AA,Foreign Currency LT,France,21.0,2014
+AA,Foreign Currency LT,France,21.0,2015
+AA,Foreign Currency LT,France,21.0,2016
+AA,Foreign Currency LT,France,21.0,2017
+AA,Foreign Currency LT,France,21.0,2018
+AAA,Foreign Currency LT,Germany,23.0,2011
+AAA,Foreign Currency LT,Germany,23.0,2012
+AAA,Foreign Currency LT,Germany,23.0,2013
+AAA,Foreign Currency LT,Germany,23.0,2014
+AAA,Foreign Currency LT,Germany,23.0,2015
+AAA,Foreign Currency LT,Germany,23.0,2016
+AAA,Foreign Currency LT,Germany,23.0,2017
+AAA,Foreign Currency LT,Germany,23.0,2018
+CC,Foreign Currency LT,Greece,4.0,2011
+CCC,Foreign Currency LT,Greece,6.0,2012
+B-,Foreign Currency LT,Greece,8.0,2013
+B,Foreign Currency LT,Greece,9.0,2014
+CCC+,Foreign Currency LT,Greece,7.0,2015
+B-,Foreign Currency LT,Greece,8.0,2016
+B-,Foreign Currency LT,Greece,8.0,2017
+B+,Foreign Currency LT,Greece,10.0,2018
+BBB-,Foreign Currency LT,Hungary,14.0,2011
+BB+,Foreign Currency LT,Hungary,13.0,2012
+BB,Foreign Currency LT,Hungary,12.0,2013
+BB,Foreign Currency LT,Hungary,12.0,2014
+BB+,Foreign Currency LT,Hungary,13.0,2015
+BBB-,Foreign Currency LT,Hungary,14.0,2016
+BBB-,Foreign Currency LT,Hungary,14.0,2017
+BBB-,Foreign Currency LT,Hungary,14.0,2018
+BBB-,Foreign Currency LT,Iceland,14.0,2011
+BBB-,Foreign Currency LT,Iceland,14.0,2012
+BBB-,Foreign Currency LT,Iceland,14.0,2013
+BBB-,Foreign Currency LT,Iceland,14.0,2014
+BBB,Foreign Currency LT,Iceland,15.0,2015
+BBB+,Foreign Currency LT,Iceland,16.0,2016
+A,Foreign Currency LT,Iceland,18.0,2017
+A,Foreign Currency LT,Iceland,18.0,2018
+BBB-,Foreign Currency LT,India,14.0,2011
+BBB-,Foreign Currency LT,India,14.0,2012
+BBB-,Foreign Currency LT,India,14.0,2013
+BBB-,Foreign Currency LT,India,14.0,2014
+BBB-,Foreign Currency LT,India,14.0,2015
+BBB-,Foreign Currency LT,India,14.0,2016
+BBB-,Foreign Currency LT,India,14.0,2017
+BBB-,Foreign Currency LT,India,14.0,2018
+BBB+,Foreign Currency LT,Ireland,16.0,2011
+BBB+,Foreign Currency LT,Ireland,16.0,2012
+BBB+,Foreign Currency LT,Ireland,16.0,2013
+A-,Foreign Currency LT,Ireland,17.0,2014
+A+,Foreign Currency LT,Ireland,19.0,2015
+A+,Foreign Currency LT,Ireland,19.0,2016
+A+,Foreign Currency LT,Ireland,19.0,2017
+A+,Foreign Currency LT,Ireland,19.0,2018
+A+,Foreign Currency LT,Israel,19.0,2011
+A+,Foreign Currency LT,Israel,19.0,2012
+A+,Foreign Currency LT,Israel,19.0,2013
+A+,Foreign Currency LT,Israel,19.0,2014
+A+,Foreign Currency LT,Israel,19.0,2015
+A+,Foreign Currency LT,Israel,19.0,2016
+A+,Foreign Currency LT,Israel,19.0,2017
+AA-,Foreign Currency LT,Israel,20.0,2018
+A,Foreign Currency LT,Italy,18.0,2011
+BBB+,Foreign Currency LT,Italy,16.0,2012
+BBB,Foreign Currency LT,Italy,15.0,2013
+BBB,Foreign Currency LT,Italy,15.0,2014
+BBB-,Foreign Currency LT,Italy,14.0,2015
+BBB-,Foreign Currency LT,Italy,14.0,2016
+BBB-,Foreign Currency LT,Italy,14.0,2017
+BBB,Foreign Currency LT,Italy,15.0,2018
+AA-,Foreign Currency LT,Japan,20.0,2011
+AA-,Foreign Currency LT,Japan,20.0,2012
+AA-,Foreign Currency LT,Japan,20.0,2013
+AA-,Foreign Currency LT,Japan,20.0,2014
+A+,Foreign Currency LT,Japan,19.0,2015
+A+,Foreign Currency LT,Japan,19.0,2016
+A+,Foreign Currency LT,Japan,19.0,2017
+A+,Foreign Currency LT,Japan,19.0,2018
+BB+,Foreign Currency LT,Latvia,13.0,2011
+BBB-,Foreign Currency LT,Latvia,14.0,2012
+BBB+,Foreign Currency LT,Latvia,16.0,2013
+A-,Foreign Currency LT,Latvia,17.0,2014
+A-,Foreign Currency LT,Latvia,17.0,2015
+A-,Foreign Currency LT,Latvia,17.0,2016
+A-,Foreign Currency LT,Latvia,17.0,2017
+A,Foreign Currency LT,Latvia,18.0,2018
+BBB,Foreign Currency LT,Lithuania,15.0,2011
+BBB,Foreign Currency LT,Lithuania,15.0,2012
+BBB,Foreign Currency LT,Lithuania,15.0,2013
+A-,Foreign Currency LT,Lithuania,17.0,2014
+A-,Foreign Currency LT,Lithuania,17.0,2015
+A-,Foreign Currency LT,Lithuania,17.0,2016
+A-,Foreign Currency LT,Lithuania,17.0,2017
+A,Foreign Currency LT,Lithuania,18.0,2018
+AAA,Foreign Currency LT,Luxembourg,23.0,2011
+AAA,Foreign Currency LT,Luxembourg,23.0,2012
+AAA,Foreign Currency LT,Luxembourg,23.0,2013
+AAA,Foreign Currency LT,Luxembourg,23.0,2014
+AAA,Foreign Currency LT,Luxembourg,23.0,2015
+AAA,Foreign Currency LT,Luxembourg,23.0,2016
+AAA,Foreign Currency LT,Luxembourg,23.0,2017
+AAA,Foreign Currency LT,Luxembourg,23.0,2018
+BBB,Foreign Currency LT,Mexico,15.0,2011
+BBB,Foreign Currency LT,Mexico,15.0,2012
+BBB,Foreign Currency LT,Mexico,15.0,2013
+BBB+,Foreign Currency LT,Mexico,16.0,2014
+BBB+,Foreign Currency LT,Mexico,16.0,2015
+BBB+,Foreign Currency LT,Mexico,16.0,2016
+BBB+,Foreign Currency LT,Mexico,16.0,2017
+BBB+,Foreign Currency LT,Mexico,16.0,2018
+AAA,Foreign Currency LT,Netherlands,23.0,2013
+AA+,Foreign Currency LT,Netherlands,22.0,2014
+AA+,Foreign Currency LT,Netherlands,22.0,2015
+AAA,Foreign Currency LT,Netherlands,23.0,2016
+AAA,Foreign Currency LT,Netherlands,23.0,2017
+AAA,Foreign Currency LT,Netherlands,23.0,2018
+AA,Foreign Currency LT,New Zealand,21.0,2011
+AA,Foreign Currency LT,New Zealand,21.0,2012
+AA,Foreign Currency LT,New Zealand,21.0,2013
+AA,Foreign Currency LT,New Zealand,21.0,2014
+AA,Foreign Currency LT,New Zealand,21.0,2015
+AA,Foreign Currency LT,New Zealand,21.0,2016
+AA,Foreign Currency LT,New Zealand,21.0,2017
+AA,Foreign Currency LT,New Zealand,21.0,2018
+AAA,Foreign Currency LT,Norway,23.0,2011
+AAA,Foreign Currency LT,Norway,23.0,2012
+AAA,Foreign Currency LT,Norway,23.0,2013
+AAA,Foreign Currency LT,Norway,23.0,2014
+AAA,Foreign Currency LT,Norway,23.0,2015
+AAA,Foreign Currency LT,Norway,23.0,2016
+AAA,Foreign Currency LT,Norway,23.0,2017
+AAA,Foreign Currency LT,Norway,23.0,2018
+A-,Foreign Currency LT,Poland,17.0,2010
+A-,Foreign Currency LT,Poland,17.0,2011
+A-,Foreign Currency LT,Poland,17.0,2012
+A-,Foreign Currency LT,Poland,17.0,2013
+A-,Foreign Currency LT,Poland,17.0,2014
+A-,Foreign Currency LT,Poland,17.0,2015
+BBB+,Foreign Currency LT,Poland,16.0,2016
+BBB+,Foreign Currency LT,Poland,16.0,2017
+BBB+,Foreign Currency LT,Poland,16.0,2018
+BBB-,Foreign Currency LT,Portugal,14.0,2011
+BB,Foreign Currency LT,Portugal,12.0,2012
+BB,Foreign Currency LT,Portugal,12.0,2013
+BB,Foreign Currency LT,Portugal,12.0,2014
+BB+,Foreign Currency LT,Portugal,13.0,2015
+BB+,Foreign Currency LT,Portugal,13.0,2016
+BBB-,Foreign Currency LT,Portugal,14.0,2017
+BBB-,Foreign Currency LT,Portugal,14.0,2018
+A,Foreign Currency LT,Republic of Korea,18.0,2011
+A+,Foreign Currency LT,Republic of Korea,19.0,2012
+A+,Foreign Currency LT,Republic of Korea,19.0,2013
+A+,Foreign Currency LT,Republic of Korea,19.0,2014
+AA-,Foreign Currency LT,Republic of Korea,20.0,2015
+AA,Foreign Currency LT,Republic of Korea,21.0,2016
+AA,Foreign Currency LT,Republic of Korea,21.0,2017
+AA,Foreign Currency LT,Republic of Korea,21.0,2018
+BB+,Foreign Currency LT,Russian Federation,13.0,2015
+BB+,Foreign Currency LT,Russian Federation,13.0,2016
+BB+,Foreign Currency LT,Russian Federation,13.0,2017
+BBB-,Foreign Currency LT,Russian Federation,14.0,2018
+A+,Foreign Currency LT,Slovak Republic,19.0,2011
+A,Foreign Currency LT,Slovak Republic,18.0,2012
+A,Foreign Currency LT,Slovak Republic,18.0,2013
+A,Foreign Currency LT,Slovak Republic,18.0,2014
+A+,Foreign Currency LT,Slovak Republic,19.0,2015
+A+,Foreign Currency LT,Slovak Republic,19.0,2016
+A+,Foreign Currency LT,Slovak Republic,19.0,2017
+A+,Foreign Currency LT,Slovak Republic,19.0,2018
+AA,Foreign Currency LT,Slovenia,21.0,2011
+A,Foreign Currency LT,Slovenia,18.0,2012
+A-,Foreign Currency LT,Slovenia,17.0,2013
+A-,Foreign Currency LT,Slovenia,17.0,2014
+A-,Foreign Currency LT,Slovenia,17.0,2015
+A,Foreign Currency LT,Slovenia,18.0,2016
+A+,Foreign Currency LT,Slovenia,19.0,2017
+A+,Foreign Currency LT,Slovenia,19.0,2018
+BBB+,Foreign Currency LT,South Africa,16.0,2011
+BBB+,Foreign Currency LT,South Africa,16.0,2012
+BBB,Foreign Currency LT,South Africa,15.0,2013
+BBB-,Foreign Currency LT,South Africa,14.0,2014
+BBB-,Foreign Currency LT,South Africa,14.0,2015
+BBB-,Foreign Currency LT,South Africa,14.0,2016
+BB+,Foreign Currency LT,South Africa,13.0,2017
+BB,Foreign Currency LT,South Africa,12.0,2018
+AA,Foreign Currency LT,Spain,21.0,2011
+BBB+,Foreign Currency LT,Spain,16.0,2012
+BBB-,Foreign Currency LT,Spain,14.0,2013
+BBB,Foreign Currency LT,Spain,15.0,2014
+BBB,Foreign Currency LT,Spain,15.0,2015
+BBB+,Foreign Currency LT,Spain,16.0,2016
+BBB+,Foreign Currency LT,Spain,16.0,2017
+A-,Foreign Currency LT,Spain,17.0,2018
+AAA,Foreign Currency LT,Sweden,23.0,2010
+AAA,Foreign Currency LT,Sweden,23.0,2011
+AAA,Foreign Currency LT,Sweden,23.0,2012
+AAA,Foreign Currency LT,Sweden,23.0,2013
+AAA,Foreign Currency LT,Sweden,23.0,2014
+AAA,Foreign Currency LT,Sweden,23.0,2015
+AAA,Foreign Currency LT,Sweden,23.0,2016
+AAA,Foreign Currency LT,Sweden,23.0,2017
+AAA,Foreign Currency LT,Sweden,23.0,2018
+AAA,Foreign Currency LT,Switzerland,23.0,2011
+AAA,Foreign Currency LT,Switzerland,23.0,2012
+AAA,Foreign Currency LT,Switzerland,23.0,2013
+AAA,Foreign Currency LT,Switzerland,23.0,2014
+AAA,Foreign Currency LT,Switzerland,23.0,2015
+AAA,Foreign Currency LT,Switzerland,23.0,2016
+AAA,Foreign Currency LT,Switzerland,23.0,2017
+AAA,Foreign Currency LT,Switzerland,23.0,2018
+AAA,Foreign Currency LT,United Kingdom,23.0,2011
+AAA,Foreign Currency LT,United Kingdom,23.0,2012
+AAA,Foreign Currency LT,United Kingdom,23.0,2013
+AAA,Foreign Currency LT,United Kingdom,23.0,2014
+AAA,Foreign Currency LT,United Kingdom,23.0,2015
+AA,Foreign Currency LT,United Kingdom,21.0,2016
+AA,Foreign Currency LT,United Kingdom,21.0,2017
+AA,Foreign Currency LT,United Kingdom,21.0,2018
+AA+,Foreign Currency LT,United States,22.0,2011
+AA+,Foreign Currency LT,United States,22.0,2012
+AA+,Foreign Currency LT,United States,22.0,2013
+AA+,Foreign Currency LT,United States,22.0,2014
+AA+,Foreign Currency LT,United States,22.0,2015
+AA+,Foreign Currency LT,United States,22.0,2016
+AA+,Foreign Currency LT,United States,22.0,2017
+AA+,Foreign Currency LT,United States,22.0,2018
