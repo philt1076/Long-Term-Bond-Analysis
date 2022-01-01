@@ -11,15 +11,15 @@ import numpy as np
 import datetime
 
 # Read in yield predictions and historical yield data
-full_table = pd.read_csv('data\\full_results.csv', parse_dates = ['Date'])
+full_table = pd.read_csv('data/full_results.csv', parse_dates = ['Date'])
 pred_indicators = full_table['Pred Type'].unique()
 countries = full_table['Country'].unique()
 
 # Read in credit rating data
-credit = pd.read_csv('data\\sp_dash.csv')
+credit = pd.read_csv('data/sp_dash.csv')
 
 # Read in ESG data
-esg = pd.read_csv('data\\esg_dash.csv')
+esg = pd.read_csv('data/esg_dash.csv')
 
 # Set year options to all years in esg data set
 explore_years = np.arange(2010, 2019)
@@ -44,6 +44,7 @@ The data shown above can be found from the following sources:
 '''
 
 app = dash.Dash(__name__, external_stylesheets = external_stylesheets)
+server = app.server
 
 app.layout = html.Div([
     html.Div([
